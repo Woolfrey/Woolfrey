@@ -1,16 +1,25 @@
-## Hi there 👋
+### :uk: Welcome. :it: Benvenuti. :australia: G'day!
 
-<!--
-**Woolfrey/Woolfrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jon, and I'm from Sydney, Australia :earth_asia:.
 
-Here are some ideas to get you started:
+#### I am a...
+- :martial_arts_uniform: Lean Six Sigma Black Belt  
+- :robot: Robotics engineer  
+- :jigsaw: Expert problem solver  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I'm really good at...
+- :control_knobs: Robotics & control  
+- :abacus: Mathematical optimisation  
+- :ping_pong: Classical mechanics  
+- :brain: Complex problem solving  
+
+#### I'm currently collaborating on...
+- The [Terabotics project](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/emmasthzgroup/terabotics/) with the University of Leeds, University of Warwick, and University of Exeter  
+- [Soft, magnetic tentacle robot modeling for heart interventions](https://wun.ac.uk/wun/research/view/magnetically-controlled-tentacle-robots-for-transcatheter-structural-heart-intervention/), in collaboration with the University of Leeds, University of Technology Sydney, and the Chinese University of Hong Kong  
+
+#### Want to know more?
+- :globe_with_meridians: Visit my website: [woolfrey.github.io](https://woolfrey.github.io)  
+- :link: Connect on LinkedIn: [linkedin.com/in/jonathanwoolfrey](https://www.linkedin.com/in/jonathanwoolfrey/)  
+- :email: Email me: [jonathan.woolfrey@gmail.com](mailto:jonathan.woolfrey@gmail.com)  
+
+Check out my projects below :point_down:
