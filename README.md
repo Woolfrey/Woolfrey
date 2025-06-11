@@ -8,10 +8,11 @@ I'm Jon, from Sydney, Australia :earth_asia:.
 - :jigsaw: Expert problem solver
   
 **I'm really good at:**
+- :brain: Complex problem solving
 - :control_knobs: Robotics & control  
-- :abacus: Mathematical optimisation  
+- :abacus: Mathematical optimisation
+- :bar_chart: Statistics
 - :gear: Classical mechanics  
-- :brain: Complex problem solving  
 
 **I'm currently collaborating on:**
 - The [Terabotics project](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/emmasthzgroup/terabotics/) with the University of Leeds, University of Warwick, and University of Exeter  
