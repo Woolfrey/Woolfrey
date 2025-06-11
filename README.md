@@ -1,4 +1,4 @@
-### :uk: Welcome. :it: Benvenuti. :australia: G'day!
+### :england: Welcome. :it: Benvenuti. :australia: G'day!
 
 I'm Jon, from Sydney, Australia :earth_asia:.
 
