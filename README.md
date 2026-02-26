@@ -15,8 +15,7 @@ I'm Jon, from Sydney, Australia :earth_asia:.
 - :gear: Classical mechanics  
 
 **I'm currently collaborating on:**
-- The [Terabotics project](https://warwick.ac.uk/fac/sci/physics/research/condensedmatt/ultrafastphotonics/emmasthzgroup/terabotics/) with the University of Leeds, University of Warwick, and University of Exeter  
-- [Soft, magnetic tentacle robot modeling for heart interventions](https://wun.ac.uk/wun/research/view/magnetically-controlled-tentacle-robots-for-transcatheter-structural-heart-intervention/), in collaboration with the University of Leeds, University of Technology Sydney, and the Chinese University of Hong Kong  
+- [Robotic hip replacement surgery](https://www.uts.edu.au/research/centres/robotics-institute/partner-us/health-robotics) with the Robotics Institute, at the University of Technology Sydney.
 
 **Want to know more?**
 - :globe_with_meridians: Visit my website: [woolfrey.github.io](https://woolfrey.github.io)  
