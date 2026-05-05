@@ -15,6 +15,8 @@ I'm Jon, from Sydney, Australia :earth_asia:.
 - :gear: Classical mechanics  
 
 **I'm currently collaborating on:**
+- A business improvement project with [The Butcher's Pantry](https://thebutcherspantry.com.au/)
+- Force feedback control for teleoperated robots with [Crest Robotics](https://crestrobotics.co/)
 - [Robotic hip replacement surgery](https://www.uts.edu.au/research/centres/robotics-institute/partner-us/health-robotics) with the Robotics Institute, at the University of Technology Sydney.
 
 **Want to know more?**
